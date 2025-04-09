@@ -6,4 +6,8 @@ Torne executável e execute o comando:
 ```bash
 chmod +x install_python.sh
 ./install_python.sh
-
+```
+🧑‍💻 Autor
+- Vanderson Diniz do Nascimento
+- Especialista em Linux, Redes, Cibersegurança e ISPs
+- GitHub — LinkedIn
