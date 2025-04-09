@@ -7,7 +7,11 @@ Torne executável e execute o comando:
 chmod +x install_python.sh
 ./install_python.sh
 ```
-🧑‍💻 Autor
-- Vanderson Diniz do Nascimento
-- Especialista em Linux, Redes, Cibersegurança e ISPs
-- GitHub — LinkedIn
+## 🧑‍💻 Autor
+**Vanderson Diniz do Nascimento**  
+Especialista em Linux, Redes, Cibersegurança e ISPs  
+
+- 🌐 [Site pessoal](https://vandersondiniz.com.br)  
+- 🏢 [ISPLAB](https://isplab.com.br)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/vdnascdiniz/)  
+- 💻 [GitHub @vandersondiniznoc](https://github.com/vandersondiniznoc)
